@@ -1,3 +1,5 @@
+## apns2 토큰 기반 인증을 fork함
+
 # APNS/2
 
 NOTE: This is an experimental branch for the purpose of testing the new token based authentication
